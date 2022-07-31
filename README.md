@@ -5,7 +5,7 @@
 
 ## 🔍 About me
 
-Hi I'm usbo, a rust developer from Italy<br>
+Hi I'm drip, a rust developer from Italy<br>
 I like to code websites, terminal applications and API's.<br>
 I like to think that I've spent half of my life founding a multinational software house <br>
 I like nature and mountain biking and skiing <br>
