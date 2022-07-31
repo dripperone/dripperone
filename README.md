@@ -30,4 +30,4 @@ And obviously I REALLY LIKE PIZZA🍕
 ## 👁️ Arch Linux
 ![desktop](https://archcraft.io/images/bspwm/tiles.gif)
 <br><br><br>
-_Inspired by [Bl4ckDestinyXX](https://github.com/BlackdestinyXX/)_
+_Inspired by [UsboKirishima](https://github.com/UsboKirishima/)_
