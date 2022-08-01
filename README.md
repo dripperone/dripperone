@@ -6,7 +6,7 @@
 ## 🔍 About me
 
 Hi I'm drip, a rust developer from Italy and Brazil<br>
-I'm currently learning **![rust](https://img.shields.io/badge/-rust-black?&logo=rust)**
+I'm currently learning ![rust](https://img.shields.io/badge/-rust-black?&logo=rust)
 
 ## 📬 Pretty socials
 
